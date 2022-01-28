@@ -36,5 +36,10 @@ After computed padding via brute force, the accuracy increases to 1.00
 | :---: |:---:| :---:|:---: | :---: |
 
 
+## GUI
+The GUI allows to create data and make a predictions
 
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/81371889/151619820-080f9f4c-d95d-4d15-8f19-52fc0868ca95.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/81371889/151619821-602e4c55-9aeb-4c06-be5d-2c1ada8b1e78.png" width="400" /> 
+</p>
